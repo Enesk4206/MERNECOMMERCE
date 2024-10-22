@@ -1,3 +1,8 @@
 1.41.27
 FRONTEND
 
+create by vite react project
+add tailwindcss vite
+
+npm i react-router-dom
+npm i react-icons
